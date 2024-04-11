@@ -1,5 +1,5 @@
 import telepot
-token = '6955735455:AAFarTCA4qKJU7ndh9xOF6htRQPM91v3hq8'
+token = 'Tafuta yako'
 TelegramBot = telepot.Bot(token)
 #print (TelegramBot.getMe())
 
